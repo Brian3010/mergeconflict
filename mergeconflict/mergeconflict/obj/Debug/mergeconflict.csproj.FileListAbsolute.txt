@@ -1,0 +1,7 @@
+D:\mergeconflict\mergeconflict\mergeconflict\bin\Debug\mergeconflict.exe.config
+D:\mergeconflict\mergeconflict\mergeconflict\bin\Debug\mergeconflict.exe
+D:\mergeconflict\mergeconflict\mergeconflict\bin\Debug\mergeconflict.pdb
+D:\mergeconflict\mergeconflict\mergeconflict\obj\Debug\mergeconflict.csprojAssemblyReference.cache
+D:\mergeconflict\mergeconflict\mergeconflict\obj\Debug\mergeconflict.csproj.CoreCompileInputs.cache
+D:\mergeconflict\mergeconflict\mergeconflict\obj\Debug\mergeconflict.exe
+D:\mergeconflict\mergeconflict\mergeconflict\obj\Debug\mergeconflict.pdb
