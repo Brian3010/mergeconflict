@@ -9,8 +9,10 @@ namespace mergeconflict
         {
             int num1 = 5, num2 = 5, result;
 
+
             result = num1 - num2;
             Console.WriteLine("the substraction of 5 - 5 is {0}", result);
+
         }
     }
 }
